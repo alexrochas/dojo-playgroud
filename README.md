@@ -1,4 +1,4 @@
-# Kotlin Dojo
+# Dojo playground
 > List of coding challenges to be done in a dojo
 
 Inspired in [minor challenges](https://repl.it/@gjoebeck/CodingDojo-Challenges).
